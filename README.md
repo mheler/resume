@@ -1,2 +1,2 @@
 # resume
-My one page CV written in Latex
+My one page CV written in LaTeX
